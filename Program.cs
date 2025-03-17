@@ -1,5 +1,3 @@
-﻿using System.Runtime.InteropServices;
-
 double A = 0, B = 0;
 
 Console.Write("Insira o valor A: ");
